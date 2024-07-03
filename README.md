@@ -1,7 +1,10 @@
-# <div align='center'>
-# بسم الله الرحمن الرحيم
-# </div>
+<div align="center">
+  <h1>بسم الله الرحمن الرحيم</h1>
+</div>
 
+<div align="center">
+  <img src="images/network.png" alt="Network Diagram">
+</div>
 # Network_Automation_Python
 These scripts provide a simple network automation asynchronous framework for vendor-agnostic network
 
@@ -148,7 +151,9 @@ These scripts provide a simple network automation asynchronous framework for ven
         * Prints outputs from threads.
 
 # 
-#  بسم الله الرحمن الرحيم 
+<div align="center">
+  <h1>بسم الله الرحمن الرحيم</h1>
+</div>
 # 
 
 ##  هيكل الملفات: 
