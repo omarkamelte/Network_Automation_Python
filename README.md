@@ -1,9 +1,6 @@
 # Network_Automation_Python
 These scripts provide a simple network automation asynchronous framework for vendor-agnostic network
 
-## README.md
-
-This repository contains Python scripts for automating various tasks related to network configuration and management. 
 
 **File Structure:**
 
@@ -146,4 +143,4 @@ This repository contains Python scripts for automating various tasks related to 
     * **Output:**  
         * Prints outputs from threads.
 
-**Note:**  This README file excludes duplicate files and files that lack a clear function description or input/output details. You may want to review and adjust the descriptions further based on your specific use case. 
+
