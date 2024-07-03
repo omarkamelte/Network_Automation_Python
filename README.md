@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="images/network.png" alt="Network Diagram">
+  <img src="images/network.jpg" alt="Network_Automation_Python">
 </div>
 # Network_Automation_Python
 These scripts provide a simple network automation asynchronous framework for vendor-agnostic network
